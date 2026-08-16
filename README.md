@@ -1,6 +1,6 @@
 # Bank Marketing Conversion Prediction Using Machine Learning
 
-**Author:** Heppy
+**Author:** Hephzibah Chikkala
 
 ## 1. Project Overview
 This project develops an explainable, leakage-aware machine-learning solution for predicting whether a bank customer will subscribe to a term deposit. It treats prediction as a customer-prioritisation and decision-support problem rather than only a classification task.
